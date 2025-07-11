@@ -1,8 +1,8 @@
 next
-    suit
+    suit 123 effect
 
 guide
-     effect
+     effect 123
 
 house
      123 
